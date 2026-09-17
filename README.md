@@ -75,7 +75,7 @@ Below is a comparative breakdown of commercial SaaS platforms serving enterprise
 
 While enterprise listing distribution networks rely on proprietary API partnerships with publishers, technical SEOs and engineering teams can use open-source modules for **NAP normalization**, **address parsing**, **geocoding**, **schema generation**, and **Google Business Profile API integration**.
 
-Repositories below are sorted by GitHub Star count (descending).
+Repositories below are sorted by GitHub Stars_Count (descending).
 
 - **[google/libphonenumber](https://github.com/google/libphonenumber)** [![Stars](https://img.shields.io/github/stars/google/libphonenumber?style=social&color=white)](https://github.com/google/libphonenumber/stargazers)  
   *Google's common Java, C++, and JavaScript library for parsing, formatting, and validating international phone numbers.* Essential utility for standardizing phone strings during NAP consistency audits.

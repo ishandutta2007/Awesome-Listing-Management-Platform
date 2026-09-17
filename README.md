@@ -1,211 +1,156 @@
-# Awesome-Listing-Management-Platform
-
-## Top Listing Management Platforms Ecosystem
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**
-
-*Focused on Local Business Listings, NAP Consistency, Directory Distribution, Duplicate Suppression & Multi-Location Presence*
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Listing Management**. These systems help businesses and agencies publish and maintain accurate Name, Address, Phone (NAP) and business data across Google, Apple, Bing, Yelp, Facebook, and hundreds of other directories—critical for local SEO and customer discovery.
-
-
-
-**Examples** include Yext, Uberall, Synup, Rio SEO, Semrush Local, BrightLocal, Moz Local, Advice Local, Localogy, and SinglePlatform (the category leaders).
-
-
-
-**Open-source emphasis**: Full listing distribution networks and publisher relationships are commercial. Practical open options focus on **NAP/citation auditing**, **Google Business Profile helpers**, and local SEO toolkits rather than automated multi-directory publishing. This section lists the strongest available open resources and is realistic about the gap.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Yext](https://www.yext.com/)**  
-
-  Enterprise knowledge and listings platform with a large publisher network, duplicate suppression, and real-time control of business entity data.
-
-
-
-- **[Uberall](https://uberall.com/)**  
-
-  Location marketing and listings platform strong in multi-location and European markets for presence, reviews, and engagement.
-
-
-
-- **[Synup](https://synup.com/)**  
-
-  Local listings and reputation management platform aimed at agencies and multi-location brands.
-
-
-
-- **[Rio SEO](https://www.rioseo.com/)**  
-
-  Enterprise local SEO and location marketing platform focused on franchise and multi-location listing and page management.
-
-
-
-- **[Semrush Local](https://www.semrush.com/)**  
-
-  Listing management and local SEO capabilities within the Semrush suite for teams already using Semrush.
-
-
-
-- **[BrightLocal](https://www.brightlocal.com/)**  
-
-  Local SEO toolkit widely used by agencies for citation tracking, rank tracking, reputation, and white-label reporting.
-
-
-
-- **[Moz Local](https://moz.com/products/local)**  
-
-  Listing distribution product from Moz for submitting and syncing core business data across major directories and aggregators.
-
-
-
-- **[Advice Local](https://www.advicelocal.com/)**  
-
-  Local listings and citation-focused platform used for directory distribution and local presence management.
-
-
-
-- **[Localogy](https://www.localogy.com/)**  
-
-  Local marketing and listings-oriented solutions for multi-location brands.
-
-
-
-- **[SinglePlatform](https://www.singleplatform.com/)**  
-
-  Location content and menu/listings distribution platform historically used by restaurants and local businesses (now part of broader local ecosystems).
-
-
-
-## Open-Source GitHub Projects
-
-- **[Citewatch / NAP citation trackers](https://github.com/)**  
-
-  Self-hosted tools that define a canonical NAP profile and audit directories for mismatches, with fix-task checklists and deep links to edit pages.
-
-
-
-- **[Google Business Profile MCP and API helpers](https://github.com/)**  
-
-  Open Model Context Protocol servers and scripts for managing GBP locations, hours, attributes, and performance data via official APIs.
-
-
-
-- **[Local SEO skill and audit open toolkits](https://github.com/)**  
-
-  Open collections of skills and scripts for citation audits, GBP optimization, and local presence checks (often AI-agent oriented).
-
-
-
-- **[Citation discovery and scraper open scripts](https://github.com/)**  
-
-  Community scripts for finding existing citations and comparing NAP strings across directories (manual or semi-automated).
-
-
-
-- **[Structured data / LocalBusiness schema generators](https://github.com/)**  
-
-  Open tools for generating consistent LocalBusiness and organization schema for location pages.
-
-
-
-- **[Multi-location page open generators](https://github.com/)**  
-
-  Templates and static-site tools for publishing consistent location landing pages from a single data source.
-
-
-
-- **[Review and listing monitor open prototypes](https://github.com/)**  
-
-  Lightweight open monitors for changes to key listings and review profiles.
-
-
-
-- **[Data aggregator open connectors](https://github.com/)**  
-
-  Experimental connectors for pushing or pulling business data to/from major aggregators where APIs allow.
-
-
-
-- **[NAP normalization open libraries](https://github.com/)**  
-
-  Libraries that standardize address and phone formats to reduce false-positive citation mismatches.
-
-
-
-- **[Agency reporting open templates](https://github.com/)**  
-
-  Open report templates for citation audits and listing health that agencies can white-label.
-
-
-
-### Additional Strong Open-Source Options
-
-- Using self-hosted **NAP/citation trackers** to own the audit process instead of paying monthly for tracking-only features.
-
-- Managing **Google Business Profile** programmatically via open MCP/API tools while using a commercial network for broader distribution.
-
-- Combining open audit tools with manual or agency citation building for cost control.
-
-- Accepting that large publisher networks, automatic duplicate suppression, real-time sync, and enterprise governance still require commercial platforms (Yext, Uberall, Synup, Moz Local, BrightLocal, etc.).
-
-- Focusing open-source efforts on transparent NAP source-of-truth and auditability rather than replacing full listing networks.
-
-
-
-**Frameworks for building custom systems**: Maintain a single canonical business/location database → audit citations with open trackers → fix mismatches manually or via agency → distribute core listings through a commercial network (or major platforms’ native tools) → publish consistent location pages with schema. Suitable for technical SEOs and cost-conscious multi-location operators. Most brands with many locations continue to rely on commercial listing management platforms for coverage and support.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Listing and directory tools interact with third-party platforms that have their own terms of service. Automated scraping or bulk editing may violate those terms. Always respect platform policies and local advertising rules. This list is not SEO or legal advice.
-
-
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Listing Management Platform Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38/media/badge.svg" alt="Awesome List" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+  <a href="README.md#-how-to-contribute"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-**Made for local SEO specialists, multi-location marketers, and agencies managing business presence.**
+# 🚀 Awesome Listing Management Platforms & Local SEO Tools 📍
 
-Let's keep local listings accurate, consistent, and as open as practical.
+> 🌟 A curated directory of top **Listing Management Platforms**, **Local SEO Tools**, **NAP Citation Auditors**, and **Open-Source Data Normalization Utilities** for multi-location businesses, local brands, and SEO agencies.
+
+*📅 Last updated: September 2026*
+
+---
+
+## 📌 Overview & Purpose
+
+Managing Name, Address, and Phone number (**NAP**) consistency across major directories like Google Business Profile, Apple Maps, Bing Places, Yelp, and Facebook is critical for local search rankings, customer discovery, and enterprise brand trust.
+
+This repository tracks top commercial **SaaS platforms** and practical **open-source GitHub projects** designed for:
+- 🏢 Local business listing syndication & multi-directory distribution.
+- 🔍 Duplicate listing identification & suppression.
+- 📋 NAP citation auditing and address/phone normalization.
+- ⚙️ Google Business Profile (GBP) programmatic management & Schema.org LocalBusiness markup.
+
+---
+
+## 📑 Table of Contents
+
+- [📊 Sector Overview & Market Size](#-sector-overview--market-size)
+- [🏢 SaaS & Hosted Listing Management Platforms](#-saas--hosted-listing-management-platforms)
+- [💻 Open-Source Local SEO & Listing Management Tools](#-open-source-local-seo--listing-management-tools)
+- [🏗 Local Listing Management Architecture](#-local-listing-management-architecture)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Size
+
+> 💡 **Market Insights**: The global local listing management software market is estimated at **~$3.2 Billion** and projected to grow to **~$9.81 Billion by 2032** at a **9.65% CAGR**. The sector is **moderately fragmented**, balancing enterprise location data orchestration platforms (e.g., Yext, Uberall, Semrush) with specialized agency citation toolkits and niche local SEO utilities, rather than operating as a single winner-take-all ecosystem.
+
+---
+
+## 🏢 SaaS & Hosted Listing Management Platforms
+
+Below is a comparative breakdown of commercial SaaS platforms serving enterprise brands, multi-location franchises, and SEO agencies.
+
+| 🌐 Platform | 💰 Company Valuation / Revenue | 🏷️ Starting Tier Price | 🎁 Free Tier / Trial Limits | ⚡️ Key Capabilities & Target Audience |
+|---|---|---|---|---|
+| **[Rio SEO](https://www.rioseo.com/)** | **$6.75 Billion** *(Press Ganey parent valuation; ~$8M ARR)* | **$85 / location / mo** | **No free trial** *(Includes free listing health audit & demo)* | Enterprise local listing management, store locators, and voice-of-customer integration for multi-location brands. |
+| **[Semrush Local](https://www.semrush.com/local/)** | **$1.90 Billion** *(Acquired by Adobe; ~$443.6M revenue)* | **$30 / location / mo** | **7-day free trial** *(Full feature access with Semrush account setup)* | Integrated Local SEO toolkit featuring GBP AI management, map rank tracking, and directory distribution. |
+| **[SinglePlatform](https://www.tripadvisor.com/)** | **$1.50 Billion** *(TripAdvisor parent market cap; $100M exit)* | **$79 / month** | **30-day money-back guarantee** *(No permanent free tier; free menu preview)* | Digital menu syndication and local directory publishing tailored for restaurants and local hospitality. |
+| **[Yext](https://www.yext.com/)** | **$930 Million** *(NYSE: YEXT market cap; ~$446.6M revenue)* | **$199 / year** *(~$4.99/week per location)* | **No free trial** *(Provides free online business listing scan tool)* | Enterprise location data orchestration platform syncing business entities directly across 200+ global publishers. |
+| **[Birdeye](https://birdeye.com/)** | **$600 Million** *(Valuation estimate; ~$100M+ ARR)* | **$299 / month** | **14-day free trial** *(Available via demo onboarding setup)* | AI-powered local listing management, review automation, and messaging for local businesses & enterprise networks. |
+| **[Uberall](https://uberall.com/)** | **$350 Million** *(Estimated valuation; $140M funding raised)* | **$40 / location / mo** | **14-day free trial** *(Available upon request with location audit)* | Hybrid location marketing suite with strong multi-location presence across European and global directories. |
+| **[Moz Local](https://moz.com/products/local)** | **$60 Million** *(Ziff Davis parent segment; ~$60M ARR)* | **$14 / month** *($169/yr billed annually)* | **No free trial** *(Includes free Moz Local Citation Checker tool)* | Automated listing submission and sync across search engines, maps, and major data aggregator networks. |
+| **[BrightLocal](https://www.brightlocal.com/)** | **$32.9 Million** *(ARR estimate; bootstrapped)* | **$39 / month** *($29/mo billed annually)* | **14-day free trial** *(No credit card required; full platform access)* | Agency local SEO toolkit for citation auditing, Google Business Profile tracking, rank tracking, and white-label reports. |
+| **[Synup](https://synup.com/)** | **$10.4 Million** *(ARR estimate; $6.5M funding)* | **$30 / location / mo** | **14-day free trial** *(Self-serve platform access with trial limits)* | Multi-location business listings management, agency white-label dashboards, and reputation analytics. |
+| **[Advice Local](https://www.advicelocal.com/)** | **$15.0 Million** *(ARR estimate; PE backed)* | **$15 / location / mo** | **7-day free trial** *(Includes free agency baseline citation audit scan)* | White-label citation building and directory submission engine built specifically for agency resellers. |
+
+---
+
+## 💻 Open-Source Local SEO & Listing Management Tools
+
+While enterprise listing distribution networks rely on proprietary API partnerships with publishers, technical SEOs and engineering teams can use open-source modules for **NAP normalization**, **address parsing**, **geocoding**, **schema generation**, and **Google Business Profile API integration**.
+
+Repositories below are sorted by GitHub Star count (descending).
+
+- **[google/libphonenumber](https://github.com/google/libphonenumber)** [![Stars](https://img.shields.io/github/stars/google/libphonenumber?style=social&color=white)](https://github.com/google/libphonenumber/stargazers)  
+  *Google's common Java, C++, and JavaScript library for parsing, formatting, and validating international phone numbers.* Essential utility for standardizing phone strings during NAP consistency audits.
+
+- **[googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client)** [![Stars](https://img.shields.io/github/stars/googleapis/google-api-python-client?style=social&color=white)](https://github.com/googleapis/google-api-python-client/stargazers)  
+  *Official Python client library for Google APIs.* Enables automated management of Google Business Profile (GBP) locations, operational hours, special attributes, posts, and review responses.
+
+- **[schemaorg/schemaorg](https://github.com/schemaorg/schemaorg)** [![Stars](https://img.shields.io/github/stars/schemaorg/schemaorg?style=social&color=white)](https://github.com/schemaorg/schemaorg/stargazers)  
+  *Open-source repository for Schema.org schemas and definitions.* Provides core vocabulary definitions for `LocalBusiness`, `PostalAddress`, and `GeoCoordinates` structured data on location landing pages.
+
+- **[openvenues/libpostal](https://github.com/openvenues/libpostal)** [![Stars](https://img.shields.io/github/stars/openvenues/libpostal?style=social&color=white)](https://github.com/openvenues/libpostal/stargazers)  
+  *C library for fast, international street address parsing and normalization using statistical NLP.* Solves complex address standardization challenges across different directory naming conventions.
+
+- **[geopy/geopy](https://github.com/geopy/geopy)** [![Stars](https://img.shields.io/github/stars/geopy/geopy?style=social&color=white)](https://github.com/geopy/geopy/stargazers)  
+  *Python Geocoding Toolbox.* Facilitates location coordinate resolution across multiple geocoding providers to ensure accurate map pin positioning for local business listings.
+
+- **[tanzeeldevAi/google-business-profile-ai-automation](https://github.com/tanzeeldevAi/google-business-profile-ai-automation)** [![Stars](https://img.shields.io/github/stars/tanzeeldevAi/google-business-profile-ai-automation?style=social&color=white)](https://github.com/tanzeeldevAi/google-business-profile-ai-automation/stargazers)  
+  *Open-source Python tool for automated GBP and Local SEO auditing.* Audits Google Business Profiles against 39 local ranking factors, verifying NAP match with website `LocalBusiness` JSON-LD schema.
+
+---
+
+## 🏗 Local Listing Management Architecture
+
+```
++-----------------------------------------------------------------------+
+|                 Canonical Location Master Database                    |
+|             (Normalized NAP: Name, Address, Phone, Hours)             |
++-----------------------------------------------------------------------+
+                                   |
+         +-------------------------+-------------------------+
+         |                                                   |
+         v                                                   v
++-----------------------------------+             +-----------------------------------+
+|  Open-Source Audit & Schema Pipeline |             | Commercial Listing Network Sync  |
+|  - Address norm (libpostal)       |             | - Yext / Uberall / BrightLocal    |
+|  - Phone norm (libphonenumber)    |             | - API Push to Tier-1 Networks     |
+|  - LocalBusiness JSON-LD Generator|             | - Automatic Duplicate Suppression |
++-----------------------------------+             +-----------------------------------+
+         |                                                   |
+         v                                                   v
++-----------------------------------+             +-----------------------------------+
+| Self-Hosted Location Landing Pages|             | Distributed Business Directory    |
+| (Google Maps / Organic Search)    |             | Listings (Apple, Bing, Yelp, etc) |
++-----------------------------------+             +-----------------------------------+
+```
+
+---
+
+## 🤝 How to Contribute
+
+1. 🍴 Fork the repository.
+2. 📝 Add or update entries in `README.md` following the tabular format for SaaS platforms or star-badged format for open-source repositories.
+3. 🔗 Ensure all links point to authoritative landing pages or valid GitHub stargazers pages.
+4. 🚀 Submit a Pull Request with a brief summary of your changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository helpful for your Local SEO projects, listing auditing, or agency workflows, please consider supporting the project:
+
+- ⭐️ **Star** this repository on GitHub to help others discover it.
+- 🔀 **Fork** & contribute to keep the platforms and open-source directory updated.
+- 📢 **Share** with local marketers, SEO agencies, and developers.
+- ☕️ **Sponsor**: Support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Listing-Management-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Listing-Management-Platform&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a community-curated collection for educational and architectural reference—not a commercial endorsement.
+- Interacting with third-party listing platforms and APIs must adhere to each provider's official terms of service and developer guidelines.
